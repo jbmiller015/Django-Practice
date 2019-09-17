@@ -18,6 +18,6 @@ class Choice(models.Model):
     votes = models.IntegerField(default=0)
     def __str__(self):
         return self.choice_text
-    def test3(self):
-        test3 = 1
+    def test4(self):
+        test4= 1
         
