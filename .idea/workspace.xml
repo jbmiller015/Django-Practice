@@ -43,7 +43,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568678296765</updated>
-      <workItem from="1568678299724" duration="761000" />
+      <workItem from="1568678299724" duration="993000" />
     </task>
     <task id="LOCAL-00001" summary="Test vcs b/w comps">
       <created>1568678574498</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568678994751</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Test vcs from laptop">
+      <created>1568679076301</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568679076301</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,6 +92,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test vcs b/w comps" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test vcs b/w comps" />
+    <MESSAGE value="Test vcs from laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test vcs from laptop" />
   </component>
 </project>
