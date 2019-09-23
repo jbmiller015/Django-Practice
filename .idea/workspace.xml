@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d51bea-820a-4a76-9d23-68cbe56f0db2" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/polls/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/models.py" afterDir="false" />
-    </list>
+    <list default="true" id="62d51bea-820a-4a76-9d23-68cbe56f0db2" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +12,11 @@
     <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Jacob Miller &lt;millerjacob@seattleu.edu&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1QwOfjR3cyy2GaRdNsQVNF4aDAv" />
@@ -43,7 +46,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1568678296765</updated>
-      <workItem from="1568678299724" duration="993000" />
+      <workItem from="1568678299724" duration="1152000" />
     </task>
     <task id="LOCAL-00001" summary="Test vcs b/w comps">
       <created>1568678574498</created>
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568679076301</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Test 2 vcs from laptop">
+      <created>1568679341589</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568679341589</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +103,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test vcs b/w comps" />
     <MESSAGE value="Test vcs from laptop" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test vcs from laptop" />
+    <MESSAGE value="Test 2 vcs from laptop" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test 2 vcs from laptop" />
   </component>
 </project>
