@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="62d51bea-820a-4a76-9d23-68cbe56f0db2" name="Default Changelist" comment="" />
+    <list default="true" id="62d51bea-820a-4a76-9d23-68cbe56f0db2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/polls/Templates/Polls/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/polls/Templates/Polls/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/polls/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/polls/views.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1568678296765</updated>
       <workItem from="1568678299724" duration="1152000" />
+      <workItem from="1569277782289" duration="5410000" />
+      <workItem from="1569363471097" duration="2748000" />
     </task>
     <task id="LOCAL-00001" summary="Test vcs b/w comps">
       <created>1568678574498</created>
@@ -83,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568679341589</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Test 2 vcs from laptop">
+      <created>1569277902705</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1569277902705</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,7 +109,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
